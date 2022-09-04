@@ -1,0 +1,19 @@
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+button P{
+  cursor: pointer;
+  outline: none;
+}
+
+input,
+textarea,
+select {
+  outline: none;
+}
+
+button,input,textarea,select {
+  font-family: 'Noto Sans KR', sans-serif;
+}
